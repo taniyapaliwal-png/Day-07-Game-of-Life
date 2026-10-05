@@ -110,4 +110,4 @@ grid[3][3] = 1;
 - Rules by [John Conway](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life), 1970
 
 ## Author
- [GitHub](https://github.com/your-taniyapaliwal-png)
+ TANIYA (https://github.com/taniyapaliwal-png)
