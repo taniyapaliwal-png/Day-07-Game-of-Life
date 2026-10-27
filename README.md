@@ -215,7 +215,7 @@ This version is my own learning project, built to explore C++ basics through som
 
 ### 🌟 THANKS FOR PLAYING!
 
-**Made by [Taniya Paliwal](https://github.com/taniyapaliwal-png)**
+**Made by [Taniya](https://github.com/taniyapaliwal-png)**
 
 *Now go make some pixels come alive.*
 
